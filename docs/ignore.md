@@ -22,7 +22,7 @@ coverage
 *.html
 ```
 
-It’s recommended to have a `.prettierignore` in your project! This way you can run `prettier --write .` to make sure that everything is formatted (without mangling files you don’t want, or choking on generated files). And – your editor will know which files _not_ to format!
+It’s recommended to have a `.prettierignore` in your project! This way you can run `prettier --write .` to make sure that everything is formatted (without mangling files you don’t want, or cheking on generated files). And – your editor will know which files _not_ to format!
 
 (See also the [`--ignore-path` CLI option](cli.md#--ignore-path).)
 
